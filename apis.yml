@@ -1,3 +1,15 @@
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/secure-software-development-life-cycle.png
 name: Secure Software Development Life Cycle
 description: A framework that integrates security practices and considerations into every phase of the software development process, from initial design through deployment and maintenance, to minimize vulnerabilities and ensure secure applications. It is used across a range of industries and technical contexts to improve efficiency and outcomes.
 url: https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity/recommended-minimum-standard-vendor-or-developer
